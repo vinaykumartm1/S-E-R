@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Speech Emotion Recognition
 ---
 
@@ -63,6 +62,3 @@ The project provides a solid foundation for future research and development in S
 
 ## 👨‍💻 Detail Report 
 Detail work and reults present in the project report file.
-
-
-EOF
