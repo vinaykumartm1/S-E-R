@@ -12,8 +12,6 @@ This project focuses on the development of a model for **Speech Emotion Recognit
 The project uses a Long Short-Term Memory (LSTM) model, a type of recurrent neural network known for its ability to capture sequential dependencies in data.
 The model was trained on a dataset of pre-recorded speech samples to analyze temporal patterns and predict the underlying emotions.
 
-## Emotion Classification Project
-
 ### Features
 - **Emotion Classification**: The model classifies speech into seven emotional categories:  
   *Angry, Disgust, Fear, Happy, Neutral, Sad, Pleasant Surprise*.
