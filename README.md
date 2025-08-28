@@ -12,12 +12,19 @@ This project focuses on the development of a model for **Speech Emotion Recognit
 The project uses a Long Short-Term Memory (LSTM) model, a type of recurrent neural network known for its ability to capture sequential dependencies in data.
 The model was trained on a dataset of pre-recorded speech samples to analyze temporal patterns and predict the underlying emotions.
 
-### Key Features:
+## Emotion Classification Project
 
-***Emotion Classification:** The model can classify speech into seven distinct emotional categories: angry, disgust, fear, happy, neutral, sad, and pleasant surprise.
-***Feature Extraction:** It utilizes Mel-frequency cepstral coefficients (MFCCs) to capture the spectral characteristics of the speech signals, which are effective for audio-based tasks.
-***Deep Learning Model:** An LSTM-based neural network is used for the core classification task.
-***Dataset:** The model was trained on the **Toronto emotional speech set (TESS)** dataset, which contains 2,940 audio clips from North American English speakers link to the dataset (https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess).
+### Features
+- **Emotion Classification**: The model classifies speech into seven emotional categories:  
+  *Angry, Disgust, Fear, Happy, Neutral, Sad, Pleasant Surprise*.
+
+- **Feature Extraction**: Uses **Mel-frequency cepstral coefficients (MFCCs)** to capture the spectral characteristics of speech signals, which are highly effective for audio-based tasks.
+
+- **Deep Learning Model**: Built with an **LSTM-based neural network** for the core classification task.
+
+- **Dataset**: Trained on the [**Toronto Emotional Speech Set (TESS)**](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess),  
+  which contains **2,940 audio clips** from North American English speakers.
+
 
 ## 🛠️ Getting Started
 
