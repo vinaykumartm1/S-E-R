@@ -7,16 +7,17 @@ A project report on developing a deep learning model to recognize emotions from 
 
 ## 🚀 About the Project
 
-This project focuses on the development of a model for **Speech Emotion Recognition (SER)**. [cite_start]The main goal was to design and implement a model that can accurately recognize emotions conveyed through speech[cite: 25, 24].
+This project focuses on the development of a model for **Speech Emotion Recognition (SER)**. The main goal was to design and implement a model that can accurately recognize emotions conveyed through speech.
 
-[cite_start]The project uses a Long Short-Term Memory (LSTM) model, a type of recurrent neural network known for its ability to capture sequential dependencies in data[cite: 26, 50]. [cite_start]The model was trained on a dataset of pre-recorded speech samples to analyze temporal patterns and predict the underlying emotions[cite: 32].
+The project uses a Long Short-Term Memory (LSTM) model, a type of recurrent neural network known for its ability to capture sequential dependencies in data.
+The model was trained on a dataset of pre-recorded speech samples to analyze temporal patterns and predict the underlying emotions.
 
 ### Key Features:
 
-* [cite_start]**Emotion Classification:** The model can classify speech into seven distinct emotional categories: angry, disgust, fear, happy, neutral, sad, and pleasant surprise[cite: 71, 114].
-* [cite_start]**Feature Extraction:** It utilizes Mel-frequency cepstral coefficients (MFCCs) to capture the spectral characteristics of the speech signals, which are effective for audio-based tasks[cite: 29, 58, 60].
-* [cite_start]**Deep Learning Model:** An LSTM-based neural network is used for the core classification task[cite: 26, 50].
-* [cite_start]**Dataset:** The model was trained on the **Toronto emotional speech set (TESS)** dataset, which contains 2,940 audio clips from North American English speakers[cite: 63, 66, 68].
+**Emotion Classification:** The model can classify speech into seven distinct emotional categories: angry, disgust, fear, happy, neutral, sad, and pleasant surprise.
+**Feature Extraction:** It utilizes Mel-frequency cepstral coefficients (MFCCs) to capture the spectral characteristics of the speech signals, which are effective for audio-based tasks.
+**Deep Learning Model:** An LSTM-based neural network is used for the core classification task.
+**Dataset:** The model was trained on the **Toronto emotional speech set (TESS)** dataset, which contains 2,940 audio clips from North American English speakers link to the dataset (https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess).
 
 ## 🛠️ Getting Started
 
@@ -39,10 +40,6 @@ You will need to have Python and the necessary libraries installed. Based on the
 2.  Navigate to the project directory:
     ```bash
     cd your-project-name
-    ```
-3.  Install the dependencies using the `requirements.txt` file:
-    ```bash
-    pip install -r requirements.txt
     ```
 
 ### Usage
