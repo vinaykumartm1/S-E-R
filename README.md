@@ -1,8 +1,5 @@
 cat > README.md << 'EOF'
 # Speech Emotion Recognition
-
-A project report on developing a deep learning model to recognize emotions from speech audio.
-
 ---
 
 ## 🚀 About the Project
