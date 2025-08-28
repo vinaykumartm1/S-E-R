@@ -14,10 +14,10 @@ The model was trained on a dataset of pre-recorded speech samples to analyze tem
 
 ### Key Features:
 
-**Emotion Classification:** The model can classify speech into seven distinct emotional categories: angry, disgust, fear, happy, neutral, sad, and pleasant surprise.
-**Feature Extraction:** It utilizes Mel-frequency cepstral coefficients (MFCCs) to capture the spectral characteristics of the speech signals, which are effective for audio-based tasks.
-**Deep Learning Model:** An LSTM-based neural network is used for the core classification task.
-**Dataset:** The model was trained on the **Toronto emotional speech set (TESS)** dataset, which contains 2,940 audio clips from North American English speakers link to the dataset (https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess).
+***Emotion Classification:** The model can classify speech into seven distinct emotional categories: angry, disgust, fear, happy, neutral, sad, and pleasant surprise.
+***Feature Extraction:** It utilizes Mel-frequency cepstral coefficients (MFCCs) to capture the spectral characteristics of the speech signals, which are effective for audio-based tasks.
+***Deep Learning Model:** An LSTM-based neural network is used for the core classification task.
+***Dataset:** The model was trained on the **Toronto emotional speech set (TESS)** dataset, which contains 2,940 audio clips from North American English speakers link to the dataset (https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess).
 
 ## 🛠️ Getting Started
 
