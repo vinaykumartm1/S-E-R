@@ -61,4 +61,4 @@ The project provides a solid foundation for future research and development in S
 - **Model Optimization:** Further enhancing the model's performance through techniques like hyperparameter tuning and data augmentation.
 
 ## 👨‍💻 Detail Report 
-Detail work and reults present in the project report file.
+Detailed work and results present in the SER project report file.
