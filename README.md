@@ -57,8 +57,8 @@ The trained model showed promising results, with training and validation accurac
 
 The project provides a solid foundation for future research and development in SER. Future work could focus on:
 
-**Real-time Applications:** Integrating the model into real-time applications to allow for emotion recognition from live voice streams.
-**Model Optimization:** Further enhancing the model's performance through techniques like hyperparameter tuning and data augmentation.
+- **Real-time Applications:** Integrating the model into real-time applications to allow for emotion recognition from live voice streams.
+- **Model Optimization:** Further enhancing the model's performance through techniques like hyperparameter tuning and data augmentation.
 
 ## 👨‍💻 Detail Report 
 Detail work and reults present in the project report file.
